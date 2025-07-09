@@ -105,6 +105,8 @@ github.com/gagliardetto/utilz v0.1.1/go.mod h1:b+rGFkRHz3HWJD0RYMzat47JyvbTtpE0i
 github.com/ghodss/yaml v1.0.0/go.mod h1:4dBDuWmgqj2HViK6kFavaiC9ZROes6MMH2rRYeMEF04=
 github.com/go-enols/go-log v0.0.3 h1:Qp7S+iMWmWeZhoxvAqPgxeA4TUxNZhxO3idwBv1GbyU=
 github.com/go-enols/go-log v0.0.3/go.mod h1:jXXj5EeeM+hqFsZNGlmA8QS/DCO6TwhBOxeBu+qQx7Q=
+github.com/go-enols/go-log v0.0.9 h1:wH/KBfrugdQhzhfFpQd6NeZvLm+SbEJ3ThrJm/+TMiE=
+github.com/go-enols/go-log v0.0.9/go.mod h1:jXXj5EeeM+hqFsZNGlmA8QS/DCO6TwhBOxeBu+qQx7Q=
 github.com/go-enols/gosolana v0.1.11 h1:HynewVhFkELEGJKZ+JJkhOaaiUtu2YyAXpjasyPjqTY=
 github.com/go-enols/gosolana v0.1.11/go.mod h1:T6C4oGpuGOha38PdPDf8nTPsJRCbTYOWaQesj488Lso=
 github.com/go-enols/metaplex-go v0.0.3 h1:MzB8TJQ/5mQEy/TL8+1/GfD6EnwtMYO8lmPCzw+OLJM=

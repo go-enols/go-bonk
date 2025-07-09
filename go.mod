@@ -1,4 +1,4 @@
-module main
+module github.com/go-enols/go-bonk
 
 go 1.24.4
 
@@ -6,7 +6,7 @@ require (
 	github.com/gagliardetto/anchor-go v1.0.0
 	github.com/gagliardetto/binary v0.8.0
 	github.com/gagliardetto/solana-go v1.12.0
-	github.com/go-enols/go-log v0.0.3
+	github.com/go-enols/go-log v0.0.9
 	github.com/go-enols/gosolana v0.1.11
 )
 
