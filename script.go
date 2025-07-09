@@ -79,7 +79,7 @@ func (p *PoolMonit) containsInitializeInstruction(logs []string) bool {
 	// 检查每条日志消息
 	for _, logMsg := range logs {
 		// 示例检查应该有更详细的筛选以确保不会浪费带宽
-		if bytes.Contains([]byte(logMsg), []byte("create")) {
+		if bytes.Contains([]byte(logMsg), []byte("Program log: Instruction: Initialize")) {
 			return true
 		}
 	}
