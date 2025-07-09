@@ -12,10 +12,11 @@ import (
 )
 
 var (
-	NetWork = rpc.Cluster{
-		RPC: "https://mainnet.helius-rpc.com/?api-key=ce5ee933-a6ba-46b3-8e00-3f08bb2c49b1",
-		WS:  "wss://mainnet.helius-rpc.com/?api-key=ce5ee933-a6ba-46b3-8e00-3f08bb2c49b1",
-	}
+	NetWork = rpc.MainNetBeta
+	// NetWork = rpc.Cluster{
+	// 	RPC: "", // 自定义RPC节点
+	// 	WS:  "", // 自定义ws rpc节点
+	// }
 	Verison uint64 = 1
 )
 
@@ -27,6 +28,9 @@ func main() {
 	opt := gosolana.NewDefaultOption(ctx, gosolana.Option{
 		RpcUrl: NetWork.RPC,
 		WsUrl:  NetWork.WS,
+		// 设置代理,如果需要的话
+		// Proxy: "",
+		// WsProxy: "",
 	})
 
 	poolMonitClient, err := bonk.NewPoolMonit(ctx, opt)
