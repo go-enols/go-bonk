@@ -1,0 +1,290 @@
+[32m2025-07-09 22:43:04[0m |[0m[30;47mINFO    [0m| [35mgithub.com/go-enols/gosolana.NewWallet:42[0m - [37m成功创建Solana钱包 | 3X4DK8F8XViYsmcDUFkXPwam6ywtLPCjFMvdMRNAG2wf | 2RjUKRufH636uYoDA4CJPwEswaHkd4o95sEgvbiGSJYppqA8wFadef9bhP9db4GozD8eNStV3XCkFyGLPZSdHZjj[0m
+[32m2025-07-09 22:43:09[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:43:09[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:43:09[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:43:09[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:43:09[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:43:09[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:43:09[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:43:09[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:43:09[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:43:09[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:43:10[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:43:10[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:43:10[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:43:10[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:43:10[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:43:10[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:43:10[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:43:10[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:43:10[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:43:10[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:43:10[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:43:10[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:43:10[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:43:10[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:43:10[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:43:10[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:43:11[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:43:11[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:43:11[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:43:11[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:43:12[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:43:12[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:43:12[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:43:12[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:43:12[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:43:12[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:43:12[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:43:12[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:43:13[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:43:13[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:43:13[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:43:13[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:43:13[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:43:13[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:43:13[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:43:13[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:43:13[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:43:13[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:43:14[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:43:14[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:43:14[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:43:14[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:43:14[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:43:14[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:43:14[0m |[0m[30;47mINFO    [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransaction:109[0m - [37m发现Initialize交易! 签名: 574t1pMP7RfmE9BrZRMURas2Rm3DVjT6gTKpY4G3VnAW5hF9uwxQvqmWuWThq1UjWuZk2fwGt6LW8863YjgP6pbo, 指令索引: 0[0m
+[32m2025-07-09 22:44:40[0m |[0m[30;47mINFO    [0m| [35mgithub.com/go-enols/gosolana.NewWallet:42[0m - [37m成功创建Solana钱包 | 6bPLM8Eyds7jgkGYDyWBq7BEeveS7uGTJXHnkmJj4qcz | 65piTYe8FHXn8Xbyxvpr2cBfnVukwG1dFbgE3iy9WwKA1xPu5oAeLF7HCydzxorT52RtZiwMqX86P1eQk487Mr5t[0m
+[32m2025-07-09 22:44:41[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:44:41[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:44:41[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:44:41[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:44:41[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:44:41[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:44:42[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:44:42[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:44:42[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:44:42[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:44:42[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:44:42[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:44:42[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:44:42[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:44:42[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:44:43[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:44:43[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:44:43[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:44:43[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:44:43[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:44:43[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:44:43[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:44:43[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:44:43[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:44:43[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:44:43[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:44:44[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:44:44[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:44:44[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:44:44[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:44:44[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:44:45[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:44:45[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:44:45[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:44:45[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:44:45[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:44:45[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:44:45[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:44:45[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:44:45[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:44:46[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:44:46[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:44:46[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:44:46[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:44:46[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:44:46[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:44:46[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:44:46[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:44:46[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:44:46[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:44:46[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:44:46[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:44:46[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:44:46[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:44:47[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:44:47[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:44:47[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:44:47[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:44:47[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:44:47[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:44:48[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:44:48[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:44:48[0m |[0m[30;47mINFO    [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransaction:109[0m - [37m发现Initialize交易! 签名: 4ZvpmEYvQMNAmz5tyfaLHm8bZxe6Do7pjPGcaxEarVemrsx7n7ZdbGk9NcCKnoNv4e1tYcbGUq9TgAUAYn64X41, 指令索引: 3[0m
+[32m2025-07-09 22:45:53[0m |[0m[30;47mINFO    [0m| [35mgithub.com/go-enols/gosolana.NewWallet:42[0m - [37m成功创建Solana钱包 | BvqYzcHEWEjXzTco17u6XPyNNrgMJ71QdVKoQiVBM6DD | 3NzprXzSHw9zP3y5qaCcW1s7bM5RxmXQWQDQrpryCAy3v3zyFJiyevZH5HDtRK2LFaFP5eqCJoWsQcuSMKUaNiP1[0m
+[32m2025-07-09 22:45:55[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:45:55[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:45:55[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:45:55[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:45:55[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:45:55[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:45:55[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:45:55[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:45:55[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:45:55[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:45:55[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:45:55[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:45:55[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:45:55[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:45:55[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:45:56[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:45:56[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:45:56[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:45:56[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:45:56[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:45:56[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:45:56[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:45:56[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:45:56[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:45:56[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:45:56[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:45:56[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:45:56[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:338[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:45:56[0m |[0m[30;47mINFO    [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransaction:109[0m - [37m发现Initialize交易! 签名: 3qwscRjeFCFMg3x868zNWwbwzvrSHBfJzNQzVjk11RUHTX1gHT9FwE9GY1DHZSnSBtV7H34guqLfgpdPYaMoJDM9, 指令索引: 2[0m
+[32m2025-07-09 22:54:32[0m |[0m[30;47mINFO    [0m| [35mgithub.com/go-enols/gosolana.NewWallet:42[0m - [37m成功创建Solana钱包 | 2MRXvDpkqMym4cuqWxDnzKHbknfLAyL2QPhqAdqji9o4 | 2aQHXEHVTGfZQJGhmSeK5ZKuiEqZY31kA265odtewFjyw1MgssuSY4U34wqo1V3yKWmHdQzGtKzReACJ6H3nxwZQ[0m
+[32m2025-07-09 22:54:33[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:345[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:54:34[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:345[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:54:34[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:345[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:54:34[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:345[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:54:34[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:345[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:54:35[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:345[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:54:35[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:345[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:54:35[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:345[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:54:35[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:345[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:54:35[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:345[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:54:35[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:345[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:54:35[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:345[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:54:35[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:345[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:54:35[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:345[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:54:35[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:345[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:54:35[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:345[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:54:36[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:345[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:54:36[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:345[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:54:37[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:345[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:54:37[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:345[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:54:37[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:345[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:54:37[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:345[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:54:37[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:345[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:54:37[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:345[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:54:37[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:345[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:54:38[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:345[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:54:38[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:345[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:54:38[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:345[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:54:38[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:345[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:54:39[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:345[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:54:39[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:345[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:54:40[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:345[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:54:40[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:345[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:54:40[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:345[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:54:40[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:345[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:54:40[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:345[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:54:40[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:345[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:54:41[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:345[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:54:41[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:345[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:54:42[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:345[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:54:42[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:345[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:54:42[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:345[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:54:42[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:345[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:54:42[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:345[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:54:43[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:345[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:54:43[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:345[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:54:43[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:345[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:54:43[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:345[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:54:44[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:345[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:54:44[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:345[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:54:44[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:345[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:54:46[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:345[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:54:46[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:345[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:54:46[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:345[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:54:46[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:345[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:54:46[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:345[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:54:46[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:345[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:54:46[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:345[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:54:47[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:345[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:54:47[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:345[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:54:48[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:345[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:54:48[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:345[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:54:48[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:345[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:54:50[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:345[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:54:50[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:345[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:54:50[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:345[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:54:50[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:345[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:54:51[0m |[0m[30;47mINFO    [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransaction:109[0m - [37m发现Initialize交易! 签名: 4ycJ7o3tSLeNDSaVv71zVT84NxL4FRbpDwEWrp52oDcKnJuhcYyuLYhD1Nxy423tYDJxNP6XtrCxVHHYErQK45D8, 指令索引: 0[0m
+[32m2025-07-09 22:54:51[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).parseInitializeAccounts:280[0m - [31m解析指令账户失败: address table lookup not found for account: AcL1Vo8oy1ULiavEcjSUcwfBSForXMudcZvDZy5nzJkU[0m
+[32m2025-07-09 22:54:51[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).handleInitializeInstruction:159[0m - [31m解析账户信息失败: address table lookup not found for account: AcL1Vo8oy1ULiavEcjSUcwfBSForXMudcZvDZy5nzJkU[0m
+[32m2025-07-09 22:54:51[0m |[0m[30;47mINFO    [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).handleInitializeInstruction:162[0m - [37m=== Initialize交易解析完成 ===[0m
+[32m2025-07-09 22:54:51[0m |[0m[30;47mINFO    [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).handleInitializeInstruction:163[0m - [37m交易签名: 4ycJ7o3tSLeNDSaVv71zVT84NxL4FRbpDwEWrp52oDcKnJuhcYyuLYhD1Nxy423tYDJxNP6XtrCxVHHYErQK45D8[0m
+[32m2025-07-09 22:54:51[0m |[0m[30;47mINFO    [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).handleInitializeInstruction:164[0m - [37m代币名称: BonkHat[0m
+[32m2025-07-09 22:54:51[0m |[0m[30;47mINFO    [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).handleInitializeInstruction:165[0m - [37m代币符号: BHAT[0m
+[32m2025-07-09 22:54:51[0m |[0m[30;47mINFO    [0m| [35mmain.main:49[0m - [37m交易 4ycJ7o3tSLeNDSaVv71zVT84NxL4FRbpDwEWrp52oDcKnJuhcYyuLYhD1Nxy423tYDJxNP6XtrCxVHHYErQK45D8 处理成功[0m
+[32m2025-07-09 22:54:51[0m |[0m[30;47mINFO    [0m| [35mmain.main:50[0m - [37mInitializeTransactionData  {
+  "signature": "4ycJ7o3tSLeNDSaVv71zVT84NxL4FRbpDwEWrp52oDcKnJuhcYyuLYhD1Nxy423tYDJxNP6XtrCxVHHYErQK45D8",
+  "discriminator": "afaf6d1f0d989bed",
+  "data_length": 162,
+  "account_count": 18,
+  "mint_params": {
+    "decimals": 6,
+    "name": "BonkHat",
+    "symbol": "BHAT",
+    "uri": "https://ipfs.io/ipfs/bafkreifn3nu3727ea26s4lxveshmqkwzsnjoirbqi47oxsaou7fndn53b4"
+  },
+  "curve_params": null,
+  "vesting_params": {
+    "totalLockedAmount": 256000000000000000,
+    "cliffPeriod": 203033600000000000,
+    "unlockPeriod": 21760000000000
+  },
+  "accounts": {
+    "payer": "11111111111111111111111111111111",
+    "creator": "11111111111111111111111111111111",
+    "authority": "11111111111111111111111111111111",
+    "base_mint": "11111111111111111111111111111111",
+    "quote_mint": "11111111111111111111111111111111",
+    "base_vault": "11111111111111111111111111111111",
+    "quote_vault": "11111111111111111111111111111111",
+    "metadata_account": "11111111111111111111111111111111",
+    "base_token_program": "11111111111111111111111111111111",
+    "quote_token_program": "11111111111111111111111111111111",
+    "metadata_program": "11111111111111111111111111111111",
+    "system_program": "11111111111111111111111111111111",
+    "rent_program": "11111111111111111111111111111111",
+    "event_authority": "11111111111111111111111111111111",
+    "program": "11111111111111111111111111111111"
+  },
+  "raw_accounts": {
+    "authority": "WLHv2UAZm6z4KyaaELi5pjdbJh6RESMva1Rnn8pJVVh",
+    "base_mint": "C2wh8s1AxbWYCyiQ9ySrmNAGLc1N8dfnAdPtf1kMbonk",
+    "base_token_program": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+    "base_vault": "GmSrC3cQMPYV8pGTfy9gxyGv42UfpnqN7iHWAVCMhwxd",
+    "creator": "AmHJ4RD7EpYzSiGwSgkF1b6ts3kogxWjPGEXJAmLbj8A",
+    "event_authority": "2DPAtwB8L12vrMRExbLuyGnC7n2J5LNoZQSejeQGpwkr",
+    "global_config": "6s1xP3hpbAfFoNtUNF8mfHsjr2Bd97JxFJRWLbL6aHuX",
+    "metadata_account": "EX3QuQyJx3oKoiT6mD9NLGg1CBLpvKL8RJcAoxQPn5SC",
+    "payer": "AmHJ4RD7EpYzSiGwSgkF1b6ts3kogxWjPGEXJAmLbj8A",
+    "platform_config": "FfYek5vEz23cMkWsdJwG2oa6EphsvXSHrGpdALN4g6W1",
+    "pool_state": "DyGLzEPptTYSsxzR2MKtjCc7CZ2RkRePXUQC3WR28qq9",
+    "program": "LanMV9sAd7wArD4vJFi2qDdfnVhFxYSUg6eADduJ3uj",
+    "quote_mint": "So11111111111111111111111111111111111111112",
+    "quote_token_program": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+    "quote_vault": "BbNj6UMmxuzsUqFFQx55Q2s7XPY1W89eEzW74jdQdc6S",
+    "system_program": "11111111111111111111111111111111"
+  },
+  "transfer_time": "2025-07-09T22:54:50+08:00"
+}[0m
+[32m2025-07-09 22:54:51[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:345[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:54:51[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:345[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:54:51[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:345[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:54:51[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:345[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:54:51[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:345[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:54:52[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:345[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:54:52[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:345[0m - [31m处理交易失败: 不是Initialize交易[0m
+[32m2025-07-09 22:54:52[0m |[0m[30;47mINFO    [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransaction:109[0m - [37m发现Initialize交易! 签名: 2ygzMgN2cEaEyPvvKmNC7bAGkGE2mgGaVnNMCjZZ2MDkESu3NyA4meraWczFH1hbEG8kbwCmcCTFdvHctitmFz7X, 指令索引: 1[0m
+[32m2025-07-09 22:56:28[0m |[0m[97;41mERROR   [0m| [35mgithub.com/go-enols/go-bonk.(*PoolMonit).ProcessTransactionLogs:345[0m - [31m处理交易失败: 获取交易失败: rpc call getTransaction() on https://mainnet.helius-rpc.com/?api-key=ce5ee933-a6ba-46b3-8e00-3f08bb2c49b1: Post "https://mainnet.helius-rpc.com/?api-key=ce5ee933-a6ba-46b3-8e00-3f08bb2c49b1": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[32m2025-07-09 22:57:05[0m |[0m[30;47mINFO    [0m| [35mgithub.com/go-enols/gosolana.NewWallet:42[0m - [37m成功创建Solana钱包 | EjyCZF6uFy1GVNCHHYy6KDY4MEJ1yoBrihd6hcx6Leyf | 5PJKUGg7eYMTW5MXuJHYxzWA8ADoMbyVZiULznPVAPXmxbhrs9qfqcNA3wQzKUiqu5tEWNskHBCvbXSMAVeSMTGM[0m

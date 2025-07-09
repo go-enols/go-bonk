@@ -12,8 +12,11 @@ import (
 )
 
 var (
-	NetWork rpc.Cluster = rpc.MainNetBeta
-	Verison uint64      = 1
+	NetWork = rpc.Cluster{
+		RPC: "https://mainnet.helius-rpc.com/?api-key=ce5ee933-a6ba-46b3-8e00-3f08bb2c49b1",
+		WS:  "wss://mainnet.helius-rpc.com/?api-key=ce5ee933-a6ba-46b3-8e00-3f08bb2c49b1",
+	}
+	Verison uint64 = 1
 )
 
 func main() {

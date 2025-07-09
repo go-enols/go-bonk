@@ -18,7 +18,7 @@ import (
 	"github.com/go-enols/gosolana/ws"
 )
 
-var Verison uint64 = 0
+var Verison uint64 = 1
 
 // InitializeTransactionData Initialize交易解析后的汇总数据
 type InitializeAccounts struct {
@@ -274,23 +274,30 @@ func (p *PoolMonit) parseInitializeAccounts(instruction solana.CompiledInstructi
 		}
 	}
 
+	// 使用 Solana SDK 方法安全地解析指令账户
+	accountMetas, err := instruction.ResolveInstructionAccounts(&transaction.Message)
+	if err != nil {
+		log.Error("解析指令账户失败:", err)
+		return err
+	}
+
 	// 填充结构化账户信息
-	if len(instruction.Accounts) >= 18 {
-		txData.Accounts.Payer = transaction.Message.AccountKeys[instruction.Accounts[0]]
-		txData.Accounts.Creator = transaction.Message.AccountKeys[instruction.Accounts[1]]
-		txData.Accounts.Authority = transaction.Message.AccountKeys[instruction.Accounts[4]]
-		txData.Accounts.BaseMint = transaction.Message.AccountKeys[instruction.Accounts[6]]
-		txData.Accounts.QuoteMint = transaction.Message.AccountKeys[instruction.Accounts[7]]
-		txData.Accounts.BaseVault = transaction.Message.AccountKeys[instruction.Accounts[8]]
-		txData.Accounts.QuoteVault = transaction.Message.AccountKeys[instruction.Accounts[9]]
-		txData.Accounts.MetadataAccount = transaction.Message.AccountKeys[instruction.Accounts[10]]
-		txData.Accounts.BaseTokenProgram = transaction.Message.AccountKeys[instruction.Accounts[11]]
-		txData.Accounts.QuoteTokenProgram = transaction.Message.AccountKeys[instruction.Accounts[12]]
-		txData.Accounts.MetadataProgram = solana.TokenMetadataProgramID
-		txData.Accounts.SystemProgram = transaction.Message.AccountKeys[instruction.Accounts[14]]
-		txData.Accounts.RentProgram = solana.SysVarRentPubkey
-		txData.Accounts.EventAuthority = transaction.Message.AccountKeys[instruction.Accounts[16]]
-		txData.Accounts.Program = transaction.Message.AccountKeys[instruction.Accounts[17]]
+	if len(accountMetas) >= 18 {
+		txData.Accounts.Payer = accountMetas[0].PublicKey
+		txData.Accounts.Creator = accountMetas[1].PublicKey
+		txData.Accounts.Authority = accountMetas[4].PublicKey
+		txData.Accounts.BaseMint = accountMetas[6].PublicKey
+		txData.Accounts.QuoteMint = accountMetas[7].PublicKey
+		txData.Accounts.BaseVault = accountMetas[8].PublicKey
+		txData.Accounts.QuoteVault = accountMetas[9].PublicKey
+		txData.Accounts.MetadataAccount = accountMetas[10].PublicKey
+		txData.Accounts.BaseTokenProgram = accountMetas[11].PublicKey
+		txData.Accounts.QuoteTokenProgram = accountMetas[12].PublicKey
+		txData.Accounts.MetadataProgram = accountMetas[13].PublicKey
+		txData.Accounts.SystemProgram = accountMetas[14].PublicKey
+		txData.Accounts.RentProgram = accountMetas[15].PublicKey
+		txData.Accounts.EventAuthority = accountMetas[16].PublicKey
+		txData.Accounts.Program = accountMetas[17].PublicKey
 
 		// 尝试获取并解析账户数据
 		if err := p.fetchAccountData(txData); err != nil {
